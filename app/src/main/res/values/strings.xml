@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My First Git Project</string>
     <string name="buttonOne">Button</string>
+    <string name="to">sdsd</string>
+    <string name="subject">bnnn</string>
+    <string name="message">erere</string>
+    <string name="send">lklkl</string>
 </resources>
